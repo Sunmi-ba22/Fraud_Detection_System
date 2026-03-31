@@ -99,7 +99,9 @@ Steps involved:
 3. Training models such as:
 
    * Logistic Regression
-   * Random Forest *(adjust if needed)*
+   * Random Forest
+   * Decision Trees
+   
 4. Evaluating model performance
 
 ---
